@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"name": "qr-nicole",
+		"path": "../../../../../Applications/XAMPP/xamppfiles/htdocs/qr-nicole"
+	},
+	{
+		"name": "sharlho",
+		"path": "../../../../../Applications/XAMPP/xamppfiles/htdocs/sharlho"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {}
+}
